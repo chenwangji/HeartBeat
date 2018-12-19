@@ -15,22 +15,22 @@ export default {
    * Github Issues 配置【文章、说说、书单、友链】, Github Issues api: https://developer.github.com/v3/issues/
    */
   // 博客仓库
-  blog: 'https://api.github.com/repos/chanshiyucx/Blog',
+  blog: 'https://api.github.com/repos/chenwangji/blog',
   // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
-  pre: '0ad1a0539c5b96fd18fa',
-  suf: 'aaafba9c7d1362a5746c',
+  pre: 'd4a5dc14ee261aa6ef',
+  suf: '46a4b1e82101385235c648',
   // 发布者
-  creator: 'chanshiyucx',
+  creator: 'chenwangji',
 
   /**
    * Gittalk 配置【评论功能】，详细文档参见：https://github.com/gitalk/gitalk
    */
   gitalkOption: {
-    clientID: '864b1c2cbc4e4aad9ed8',
-    clientSecret: '6ca16373efa03347e11a96ff92e355c5cea189bb',
+    clientID: '431011ffd580bbecb6fe',
+    clientSecret: 'd5a3389d23b58a80cd8ea4fc68def08763ae1eed',
     repo: 'Comment',
-    owner: 'chanshiyucx',
-    admin: ['chanshiyucx'],
+    owner: 'chenwangji',
+    admin: ['chenwangji'],
     distractionFreeMode: false // 是否开始无干扰模式【背景遮罩】
   },
 

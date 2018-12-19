@@ -2,11 +2,14 @@
   "name": "HeartBeat",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "蝉時雨 <me@chanshiyu.com>",
+  "author": "chenwangji <chenwangji19921028@gmail.com>",
+  "homepage": "https://blog.todyto.cn",
   "license": "MIT",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint --ext .js src test",
     "precommit": "yarn lint -- --fix"
   },
@@ -30,6 +33,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
-    "umi-plugin-react": "^1.2.3"
+    "umi-plugin-react": "^1.2.3",
+    "gh-pages": "@2.0.1"
   }
 }

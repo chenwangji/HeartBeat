@@ -14,7 +14,14 @@ export default {
           webpackChunkName: true
         },
         fastClick: true,
-        title: '蝉時雨'
+        title: '蝉時雨',
+        pwa: {
+          manifestOptions: 'src/manifest.json',
+          workboxPluginMode: 'GenerateSW',
+          workboxOptions: {
+            importWorkboxFrom: 'local'
+          }
+        }
       }
     ]
   ]

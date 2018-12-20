@@ -38,8 +38,8 @@ export default {
    * leancloud 配置 【文章浏览次数】
    */
   leancloud: {
-    appId: 'b6DWxsCOWuhurfp4YqbD5cDE-gzGzoHsz',
-    appKey: 'h564RR5uVuJV5uSeP7oFTBye'
+    appId: 'a09BgTxS5t5FunsF4qFHbLQB-gzGzoHsz',
+    appKey: 'nEYSmEHSdfz5QMRCHtFHI8EM'
   },
 
   /**
@@ -285,7 +285,8 @@ export default {
     '#1B813E', // 常磐
     '#33A6B8', // 浅葱
     '#2EA9DF', // 露草
-    '#E03C8A' // 躑躅
+    '#E03C8A', // 躑躅
+    '#9E7A7A' // 梅鼠
   ],
 
   /**

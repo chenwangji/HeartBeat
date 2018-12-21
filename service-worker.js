@@ -15,7 +15,7 @@ importScripts("/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 
 importScripts(
-  "/precache-manifest.387af38b5424c5453331850805b796fb.js"
+  "/precache-manifest.e4a5c054f726e25624d2a351580368ac.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "HeartBeat"});

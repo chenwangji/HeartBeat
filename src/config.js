@@ -164,30 +164,30 @@ export default {
       },
       {
         icon: 'university',
-        text: 'University of Electronic Science and Technology of China (UESTC)'
+        text: 'Jiangsu University of Science and Technology(JUST)'
       },
       {
         icon: 'graduation-cap',
-        text: 'Communication&Information Engineering'
+        text: 'Marine Engineering'
       }
     ],
     contact: [
       // 联系方式
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc5147e2e5.png',
-        link: 'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k'
+        link: 'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=B2RvYmlwZmlgbW5YamZuaUdhaH9qZm5rKWRoag'
       },
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc516d9d5f.png',
-        link: 'https://github.com/chanshiyucx'
+        link: 'https://github.com/chenwangji'
       },
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc518dc4f4.png',
-        link: 'https://www.zhihu.com/people/ichanshiyu/activities'
+        link: 'https://www.zhihu.com/people/chen-you-cheng-60/activities'
       },
       {
         icon: 'https://i.loli.net/2018/12/09/5c0cc51ae4f0c.png',
-        link: 'https://music.163.com/#/user/home?id=103060582'
+        link: 'https://music.163.com/#/my/m/music/playlist?id=134630819'
       }
     ]
   },

@@ -343,7 +343,7 @@ class Footer extends PureComponent {
           <div class={cx('site-desc-row')}>
             <p>
               <i className="fa fa-copyright" aria-hidden="true" />
-              <span>2017 - 2018</span>
+              <span>2018 - 2019</span>
             </p>
             <p>
               <i className="fa fa-heartbeat" aria-hidden="true" />
